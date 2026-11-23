@@ -1,0 +1,19 @@
+{
+  "id": "python-office-automation",
+  "title": "Python 办公自动化入门课",
+  "kind": "collection",
+  "status": "published",
+  "categoryId": "python",
+  "difficulty": "入门",
+  "lessonCount": 9,
+  "sourceDir": "source",
+  "runCommand": "python run_all.py",
+  "pythonVersion": "3.11",
+  "package": "dist/python-office-automation-source.zip",
+  "backendPackage": "backend/uploads/packages/python-office-automation.zip",
+  "verifiedAt": "2026-10-20",
+  "verifiedEnv": "Python 3.11.9 / Windows 11",
+  "article": "public-account/articles/python-office-automation.md",
+  "notes": "9 节课全部通过 run_all.py；示例数据运行时自动生成。",
+  "fileSize": 21185
+}

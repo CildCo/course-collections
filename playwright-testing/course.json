@@ -1,0 +1,19 @@
+{
+  "id": "playwright-testing",
+  "title": "Python自动化测试：Playwright从入门到精通",
+  "kind": "collection",
+  "status": "published",
+  "categoryId": "python",
+  "difficulty": "中级",
+  "lessonCount": 9,
+  "sourceDir": "source",
+  "runCommand": "python run_all.py",
+  "pythonVersion": "3.11",
+  "package": "dist/playwright-testing-source.zip",
+  "backendPackage": "backend/uploads/packages/playwright-testing.zip",
+  "verifiedAt": "2026-10-21",
+  "verifiedEnv": "Python 3.11.9 / Playwright 1.64.0 / Chromium headless / Windows 11",
+  "article": "public-account/articles/playwright-testing.md",
+  "notes": "9 节课全部通过 run_all.py；本地 Flask 练习站自动启动，无需外网。",
+  "fileSize": 16381
+}

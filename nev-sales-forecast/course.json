@@ -1,0 +1,19 @@
+{
+  "id": "nev-sales-forecast",
+  "title": "Python驱动新能源车销售预测：从数据建模到智能决策",
+  "kind": "collection",
+  "status": "published",
+  "categoryId": "python",
+  "difficulty": "高级",
+  "lessonCount": 6,
+  "sourceDir": "source",
+  "runCommand": "python run_all.py",
+  "pythonVersion": "3.11",
+  "package": "dist/nev-sales-forecast-source.zip",
+  "backendPackage": "backend/uploads/packages/nev-sales-forecast.zip",
+  "verifiedAt": "2026-10-21",
+  "verifiedEnv": "Python 3.11.9 / Windows 11",
+  "article": "public-account/articles/nev-sales-forecast.md",
+  "notes": "6 节课全部通过 run_all.py；示例数据自动生成，断网可跑；大屏由 Flask + ECharts 提供。",
+  "fileSize": 21785
+}

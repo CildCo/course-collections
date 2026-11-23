@@ -1,0 +1,19 @@
+{
+  "id": "pyqt5-desktop",
+  "title": "PyQt5从入门到实战：8天打造专业桌面应用",
+  "kind": "collection",
+  "status": "published",
+  "categoryId": "python",
+  "difficulty": "中级",
+  "lessonCount": 8,
+  "sourceDir": "source",
+  "runCommand": "python run_all.py",
+  "pythonVersion": "3.11",
+  "package": "dist/pyqt5-desktop-source.zip",
+  "backendPackage": "backend/uploads/packages/pyqt5-desktop.zip",
+  "verifiedAt": "2026-10-21",
+  "verifiedEnv": "Python 3.11.9 / Windows 11 / PyQt5 5.15",
+  "article": "public-account/articles/pyqt5-desktop.md",
+  "notes": "8 节课全部通过 run_all.py（offscreen 模式）并生成界面截图。",
+  "fileSize": 18477
+}

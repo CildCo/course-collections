@@ -1,0 +1,62 @@
+{
+  "repo": "https://github.com/CildCo/course-collections",
+  "contentHash": "8bd717101ee9f677f722f49dd1f491f821546230da892898378b15cd4fe77a2c",
+  "courses": [
+    {
+      "id": "deep-learning-zero",
+      "title": "Python深度学习零基础实战：从环境搭建到模型部署",
+      "kind": "collection",
+      "path": "deep-learning-zero",
+      "url": "https://github.com/CildCo/course-collections/tree/main/deep-learning-zero"
+    },
+    {
+      "id": "gold-quant-camp",
+      "title": "Python量化实战：机器学习赋能黄金期货交易策略",
+      "kind": "collection",
+      "path": "gold-quant-camp",
+      "url": "https://github.com/CildCo/course-collections/tree/main/gold-quant-camp"
+    },
+    {
+      "id": "ml-excel-forecast",
+      "title": "Python机器学习：让Excel拥有“预测未来”的大脑",
+      "kind": "collection",
+      "path": "ml-excel-forecast",
+      "url": "https://github.com/CildCo/course-collections/tree/main/ml-excel-forecast"
+    },
+    {
+      "id": "nev-sales-forecast",
+      "title": "Python驱动新能源车销售预测：从数据建模到智能决策",
+      "kind": "collection",
+      "path": "nev-sales-forecast",
+      "url": "https://github.com/CildCo/course-collections/tree/main/nev-sales-forecast"
+    },
+    {
+      "id": "playwright-testing",
+      "title": "Python自动化测试：Playwright从入门到精通",
+      "kind": "collection",
+      "path": "playwright-testing",
+      "url": "https://github.com/CildCo/course-collections/tree/main/playwright-testing"
+    },
+    {
+      "id": "pyqt5-desktop",
+      "title": "PyQt5从入门到实战：8天打造专业桌面应用",
+      "kind": "collection",
+      "path": "pyqt5-desktop",
+      "url": "https://github.com/CildCo/course-collections/tree/main/pyqt5-desktop"
+    },
+    {
+      "id": "python-office-automation",
+      "title": "Python 办公自动化入门课",
+      "kind": "collection",
+      "path": "python-office-automation",
+      "url": "https://github.com/CildCo/course-collections/tree/main/python-office-automation"
+    },
+    {
+      "id": "python-visualization-camp",
+      "title": "Python 办公自动化进阶：让数据说话—职场可视化实战营",
+      "kind": "collection",
+      "path": "python-visualization-camp",
+      "url": "https://github.com/CildCo/course-collections/tree/main/python-visualization-camp"
+    }
+  ]
+}

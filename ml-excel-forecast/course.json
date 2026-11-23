@@ -1,0 +1,19 @@
+{
+  "id": "ml-excel-forecast",
+  "title": "Python机器学习：让Excel拥有“预测未来”的大脑",
+  "kind": "collection",
+  "status": "published",
+  "categoryId": "python",
+  "difficulty": "中级",
+  "lessonCount": 9,
+  "sourceDir": "source",
+  "runCommand": "python run_all.py",
+  "pythonVersion": "3.11",
+  "package": "dist/ml-excel-forecast-source.zip",
+  "backendPackage": "backend/uploads/packages/ml-excel-forecast.zip",
+  "verifiedAt": "2026-10-21",
+  "verifiedEnv": "Python 3.11.9 / Windows 11",
+  "article": "public-account/articles/ml-excel-forecast.md",
+  "notes": "9 节课全部通过 run_all.py；36 份月度报表和报销单示例数据自动生成，断网可跑。",
+  "fileSize": 21429
+}
