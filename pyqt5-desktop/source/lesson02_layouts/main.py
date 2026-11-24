@@ -49,7 +49,7 @@ class LayoutWindow(QMainWindow):
         form.addRow("项目名称", QLineEdit("数据看板"))
         form.addRow("项目类型", QComboBox())
         form.itemAt(1, QFormLayout.FieldRole).widget().addItems(["桌面应用", "数据工具", "自动化脚本"])
-        form.addRow("负责人", QLineEdit("小居"))
+        form.addRow("负责人", QLineEdit("小李"))
         form.addRow("目标平台", QLineEdit("Windows / macOS"))
         form_layout.addLayout(form)
         form_layout.addStretch()

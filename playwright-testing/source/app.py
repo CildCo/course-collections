@@ -259,7 +259,7 @@ def dialogs():
       document.getElementById('dialog-output').textContent = ok ? 'confirm：用户点了确定' : 'confirm：用户点了取消';
     });
     document.getElementById('btn-prompt').addEventListener('click', () => {
-      const value = prompt('请输入你的名字', '小居');
+      const value = prompt('请输入你的名字', '小李');
       document.getElementById('dialog-output').textContent = value ? `prompt：你好，${value}` : 'prompt：用户取消';
     });
     """

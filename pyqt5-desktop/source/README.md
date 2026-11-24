@@ -8,7 +8,7 @@
 ## 安装
 
 ```bash
-cd 码袋子/content/collections/pyqt5-desktop/source
+cd pyqt5-desktop/source
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

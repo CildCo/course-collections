@@ -154,7 +154,7 @@ class DashboardWindow(QMainWindow):
         layout = QVBoxLayout(sidebar)
         layout.setContentsMargins(18, 24, 18, 20)
         layout.setSpacing(7)
-        brand = QLabel("小居数据台")
+        brand = QLabel("小李数据台")
         brand.setObjectName("DarkTitle")
         brand.setStyleSheet("font-size:20px;")
         caption = QLabel("DESKTOP ANALYTICS")
@@ -168,7 +168,7 @@ class DashboardWindow(QMainWindow):
             button.clicked.connect(lambda _=False, name=text: self.statusBar().showMessage(f"切换到：{name}"))
             layout.addWidget(button)
         layout.addStretch()
-        user = QLabel("当前用户\n小居 · 管理员")
+        user = QLabel("当前用户\n小李 · 管理员")
         user.setObjectName("DarkMuted")
         layout.addWidget(user)
         return sidebar

@@ -97,7 +97,7 @@ class DataWindow(QMainWindow):
         layout.setContentsMargins(16, 16, 16, 16)
         tree = QTreeWidget()
         tree.setHeaderLabels(["部门 / 成员", "角色", "本月订单"])
-        root = QTreeWidgetItem(["小居科技", "", ""])
+        root = QTreeWidgetItem(["小李科技", "", ""])
         sales = QTreeWidgetItem(["销售部", "负责人：陈晨", "268"])
         sales.addChildren([
             QTreeWidgetItem(["华东组", "组长：李敏", "96"]),

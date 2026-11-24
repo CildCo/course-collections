@@ -8,7 +8,7 @@
 ## 安装
 
 ```bash
-cd 码袋子/content/collections/playwright-testing/source
+cd playwright-testing/source
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

@@ -2,18 +2,9 @@
   "id": "deep-learning-zero",
   "title": "Python深度学习零基础实战：从环境搭建到模型部署",
   "kind": "collection",
-  "status": "published",
   "categoryId": "python",
   "difficulty": "高级",
-  "lessonCount": 11,
-  "sourceDir": "source",
   "runCommand": "python run_all.py",
-  "pythonVersion": "3.11",
-  "package": "dist/deep-learning-zero-source.zip",
-  "backendPackage": "backend/uploads/packages/deep-learning-zero.zip",
   "verifiedAt": "2026-10-21",
-  "verifiedEnv": "Python 3.11.9 / PyTorch 2.14.1+cpu / Windows 11",
-  "article": "public-account/articles/deep-learning-zero.md",
-  "notes": "11 节课全部通过 run_all.py；手写数字和唐诗语料本地生成，CPU 可跑。",
-  "fileSize": 23814
+  "verifiedEnv": "Python 3.11.9 / PyTorch 2.14.1+cpu / Windows 11"
 }

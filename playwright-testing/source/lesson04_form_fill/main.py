@@ -16,7 +16,7 @@ def main() -> None:
         page = context.new_page()
         goto(page, "/form")
 
-        page.get_by_label("姓名").fill("小居")
+        page.get_by_label("姓名").fill("小李")
         page.get_by_label("手机号").fill("13800138000")
         page.get_by_label("城市").select_option("上海")
         page.get_by_label("线上").check()

@@ -2,18 +2,9 @@
   "id": "python-visualization-camp",
   "title": "Python 办公自动化进阶：让数据说话—职场可视化实战营",
   "kind": "collection",
-  "status": "published",
   "categoryId": "python",
   "difficulty": "中级",
-  "lessonCount": 8,
-  "sourceDir": "source",
   "runCommand": "python run_all.py",
-  "pythonVersion": "3.11",
-  "package": "dist/python-visualization-camp-source.zip",
-  "backendPackage": "backend/uploads/packages/python-visualization-camp.zip",
   "verifiedAt": "2026-10-21",
-  "verifiedEnv": "Python 3.11.9 / Windows 11",
-  "article": "public-account/articles/python-visualization-camp.md",
-  "notes": "8 节课全部通过 run_all.py；示例数据自动生成。",
-  "fileSize": 26410
+  "verifiedEnv": "Python 3.11.9 / Windows 11"
 }

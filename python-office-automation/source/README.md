@@ -6,7 +6,7 @@
 ## 安装
 
 ```bash
-cd 码袋子/content/collections/python-office-automation/source
+cd python-office-automation/source
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

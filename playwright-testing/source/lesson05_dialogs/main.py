@@ -26,7 +26,7 @@ def main() -> None:
         page.wait_for_timeout(100)
         print(page.locator("#dialog-output").inner_text())
 
-        page.once("dialog", lambda dialog: (print(f"prompt：{dialog.message}"), dialog.accept("小居")))
+        page.once("dialog", lambda dialog: (print(f"prompt：{dialog.message}"), dialog.accept("小李")))
         page.locator("#btn-prompt").click()
         page.wait_for_timeout(100)
         print(page.locator("#dialog-output").inner_text())

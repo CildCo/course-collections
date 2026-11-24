@@ -8,7 +8,7 @@
 ## 安装
 
 ```bash
-cd 码袋子/content/collections/python-visualization-camp/source
+cd python-visualization-camp/source
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

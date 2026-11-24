@@ -10,7 +10,7 @@
 ## 安装
 
 ```bash
-cd 码袋子/content/collections/deep-learning-zero/source
+cd deep-learning-zero/source
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
